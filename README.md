@@ -1,2 +1,2 @@
-# jest javascript tests
- This is a school project, which helped me understand fundamental javascript testing.
+# Javascript testing with jest
+ This is a school project, which helped me understand the fundamentals of javascript testing.
