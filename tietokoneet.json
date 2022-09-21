@@ -1,0 +1,82 @@
+[
+    {
+        "numero": 1,
+        "merkki": "Päärynä Mark II",
+        "tyyppi": "supertietokone",
+        "hinta": 700,
+        "valmistusvuosi": 2005,
+        "värit": [
+            "oranssi",
+            "sininen",
+            "valkoinen"
+        ],
+        "yksityiskohdat": {
+            "energialuokka": "A",
+            "huomautus": "vanha malli",
+            "malli": "GT"
+        }
+    },
+    {
+        "numero": 2,
+        "merkki": "Päärynä Mark II",
+        "tyyppi": "pöytäkone",
+        "hinta": 123,
+        "valmistusvuosi": 2000,
+        "värit": [
+            "valkoinen",
+            "sininen",
+            "musta"
+        ],
+        "yksityiskohdat": {
+            "energialuokka": "A",
+            "huomautus": "ei huomauttamista",
+            "malli": "chrome"
+        }
+    },
+    {
+        "numero": 3,
+        "merkki": "Xunil 4.7",
+        "tyyppi": "kannettava",
+        "hinta": 1500,
+        "valmistusvuosi": 2000,
+        "värit": [
+            "punainen",
+            "vihreä",
+            "oranssi"
+        ],
+        "yksityiskohdat": {
+            "energialuokka": "C",
+            "huomautus": "ei huomauttamista",
+            "malli": "chrome"
+        }
+    },
+    {
+        "numero": 4,
+        "merkki": "Xunil 4.7",
+        "tyyppi": "pöytäkone",
+        "hinta": 123,
+        "valmistusvuosi": 2012,
+        "värit": [
+            "sininen",
+            "musta",
+            "valkoinen"
+        ],
+        "yksityiskohdat": {
+            "energialuokka": "C",
+            "huomautus": "ei huomauttamista",
+            "malli": "gold"
+        }
+    },
+    {
+        "numero": 5,
+        "merkki": "Xunil 4.7",
+        "tyyppi": "taskutietokone",
+        "hinta": 123,
+        "valmistusvuosi": 1990,
+        "värit": [
+            "keltainen",
+            "oranssi",
+            "sininen"
+        ]
+    }
+]
